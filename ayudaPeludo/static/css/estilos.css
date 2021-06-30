@@ -1,0 +1,23 @@
+
+.centro {
+    text-align: center;
+}
+.tabla-centro{
+    margin: auto;
+    padding: 10px;
+}
+.fondo{
+    background-image: url('../img/fondo1.jpg');
+}
+
+.fondos{
+    background-image: url('../img/fondo2.jpg');
+}
+.link-home{
+    margin: 10px;
+    background: tomato;
+    display: block;
+    padding: 10px;
+    font-family: cursive;
+    border-radius: 10px;
+}
